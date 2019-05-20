@@ -1,0 +1,3 @@
+rootProject.name = 'bb_new_3590'
+
+include ':app'
